@@ -1,4 +1,4 @@
-Recipe Book Welcome to the Recipe Book repository! This project is a collection of my favorite recipes, complete with step-by-step instructions, images, and videos.
+Welcome to the Recipe Book repository! This project is a collection of my favorite recipes, complete with step-by-step instructions, images, and videos.
 
 Table of Contents Dal Rice Curd Rice with Finger Chips Dal Rice A simple and delicious recipe for Dal Rice.
 
