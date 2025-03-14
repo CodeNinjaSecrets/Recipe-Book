@@ -1,5 +1,5 @@
 🍽️ Welcome to the Recipe Book Repository! 📚
-This project is a collection of my favorite recipes, complete with step-by-step instructions, images, and videos.
+This project is a simple collection of my the recipes for my favorite dishes cooked by my mom
 
 Table of Contents
 Dal Rice 🍛
